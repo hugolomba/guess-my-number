@@ -14,17 +14,13 @@ A simple and fun number guessing game built with HTML, CSS, and vanilla JavaScri
 ## 🔧 Technologies Used
 
 - HTML5
-- CSS3 
+- CSS3
 - JavaScript (DOM manipulation, event handling, game logic)
 
 ## 📸 Screenshot
 
 ![Screenshot](./screenshot.png)
 
-
 ## 🚀 Try It Online
 
 🔗 [Play the game here](https://hugolomba.github.io/guess-my-number/)
-
-## 📁 Source Code
-
